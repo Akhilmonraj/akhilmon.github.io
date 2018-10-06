@@ -1,5 +1,5 @@
 /* =================================================================== */
-/* Green #72b626
+/* Green #4CAF50
 ====================================================================== */
 
 .page-title h2 span:first-child::before,
@@ -22,7 +22,7 @@ body.blog.dark .widget.recent-posts .entry-title a:hover,
 .comments-list .comment-reply:hover,
 body.blog .btn.back,
 .personal-info a.btn.btn-blog {
-	color:#72b626;
+	color:#4CAF50;
 }
 
 .readmore.btn,
@@ -42,14 +42,14 @@ body.blog .pagination li.active,
 .comments-form button:active,
 body.blog .btn.back:hover,
 .personal-info a.btn.btn-blog:hover  {
-	background: #72b626;
+	background: #4CAF50;
 }
 .resume-card-name {
-	color: #72b626 !important;
+	color: #4CAF50 !important;
 }
 body.blog .btn.back ,
 .personal-info a.btn.btn-blog {
-	border:1px solid #72b626;
+	border:1px solid #4CAF50;
 }
 .bl-main>section.topleft:before {
 	content:url('../../images/separators/green.png');
